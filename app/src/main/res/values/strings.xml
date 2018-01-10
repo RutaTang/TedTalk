@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TedTalk</string>
+    <string name="feature">&#xe602;</string>
+    <string name="surprise">&#xe68c;</string>
+    <string name="discover">&#xe68d;</string>
+    <string name="self">&#xe605;</string>
+    <string name="search">&#xe738;</string>
+    <string name="right">&#xe649;</string>
+    <string name="left">&#xe608;</string>
+</resources>
